@@ -40,14 +40,14 @@ I also frequently blog about the world behind the screen which involves system d
   alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a
-  href="https://stackoverflow.com/users/https://stackoverflow.com/users/22302835/yusuf-ali"
+  href="https://stackoverflow.com/users/22302835/yusuf-ali"
   target="_blank"
 >
   <img
   src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white
   alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/Code Wizard" target="_blank">
+<a href="https://www.youtube.com/channel/UC3rck9PkVZw4-WhO6IfIieg" target="_blank">
   <img
   src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white
   alt=youtube style="margin-bottom: 5px;" />
