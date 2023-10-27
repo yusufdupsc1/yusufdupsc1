@@ -242,7 +242,7 @@ servers, optimisation and also promising technologies like Blockchain and AWS.
   </tr>
 </table>
 
-<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=000&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a> <br />
 
 ![Profile views
