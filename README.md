@@ -62,19 +62,14 @@ servers, optimisation and also promising technologies like Blockchain and AWS.
 <br />
 
 ## My Status:
-<table>
-  <tr>
-    <td align="top" width="100%">
-      - I’m currently working on React, Nextjs, Data scraping associate with
-      javaScript & python. <br />
-      - I’m currently learning blockchain and smart contact development. <br />
-      - Ask me about anything related to MERN stack, Nextjs, Python and related
-      technologies. <br />
-      - ⚡ Fun fact: "As long as it catches mice.."
-    </td>
-    <td />
-  </tr>
-</table>
+
+*   🌍  I'm based in Dhaka, Bangladesh
+*   🖥️  See my portfolio at [nowyouseeme](http://nowyouseeme.dev)
+*   ✉️  You can contact me at [yusufdupsc1@gmail.com](mailto:yusufdupsc1@gmail.com)
+*   🚀  I'm currently working on [Nextjs-projects](http://nextjs2023.pro)
+*   🧠  I'm learning Blockchain & Smart contacts development
+*   🤝  I'm open to collaborating on JavaScript, React, Nextjs, Python, Django, Data Scraping projects
+*   ⚡  I'm secretly penguin lover but don't tell anyone.
 
 ## Languages and Tools
 <div>
@@ -222,26 +217,29 @@ servers, optimisation and also promising technologies like Blockchain and AWS.
 
 
 
-## Github Stats:
-<table>
-  <tr>
-    <td align="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=yusufdupsc1&show_icons=true&count_private=true&hide_border=true"
-        align="left"
-        style="width: 100%"
-      />
-    </td>
-    <td align="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdupsc1&hide_border=true&layout=compact"
-        align="left"
-        style="width: 100%"
-      />
-    </td>
-  </tr>
-</table>
-
-
-![Profile views
-counter](https://komarev.com/ghpvc/?username=yusufdupsc1&&style=flat-square)
+###<b>My GitHub Stats</b
+><a href="http://www.github.com/yusufdupsc1"
+  ><img
+    src="https://github-readme-stats.vercel.app/api?username=yusufdupsc1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+    alt="yusufdupsc1's GitHub stats" /></a
+><a href="http://www.github.com/yusufdupsc1"
+  ><img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a
+><a href="http://www.github.com/yusufdupsc1"
+  ><img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=yusufdupsc1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+    alt="GitHub Commits Graph" /></a
+><a href="https://github.com/yusufdupsc1" align="left"
+  ><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdupsc1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+    alt="Top Languages" /></a
+><b>Top Repositories</b>
+<div width="100%" align="center">
+  <a href="https://github.com/yusufdupsc1/yusufdupsc1" align="left"
+    ><img
+      align="left"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yusufdupsc1&repo=yusufdupsc1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+  /></a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
