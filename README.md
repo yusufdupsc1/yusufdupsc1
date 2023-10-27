@@ -1,6 +1,7 @@
 ##
 <h1 style=color:sky-blue>
-  Hi there, My name is Yusuf Ali and I am a fullstack developer.
+  Hi there, <br />
+  My name is Yusuf Ali and I am a fullstack developer.
 </h1>
 <br />
 
