@@ -64,13 +64,13 @@ servers, optimisation and also promising technologies like Blockchain and AWS.
 <table>
   <tr>
     <td align="top" width="100%">
-      * 🌍  I'm based in Dhaka, Bangladesh
-      * 🖥️  See my portfolio at [nowyouseeme](http://nowyouseeme.dev)
-      * ✉️  You can contact me at [yusufdupsc1@gmail.com](mailto:yusufdupsc1@gmail.com)
-      * 🚀  I'm currently working on [Nextjs-projects](http://nextjs2023.pro)
-      * 🧠  I'm learning Blockchain & Smart contacts development
-      * 🤝  I'm open to collaborating on JavaScript, React, Nextjs, Python, Django, Data Scraping projects
-      * ⚡  I'm secretly penguin lover but don't tell anyone.
+      * 🌍  I'm based in Dhaka, Bangladesh. <br />
+      * 🖥️  See my portfolio at [nowyouseeme](http://nowyouseeme.dev)  <br />
+      * ✉️  You can contact me at [yusufdupsc1@gmail.com](mailto:yusufdupsc1@gmail.com)  <br />
+      * 🚀  I'm currently working on [Nextjs-projects](http://nextjs2023.pro)  <br />
+      * 🧠  I'm learning Blockchain & Smart contacts development.  <br />
+      * 🤝  I'm open to collaborating on JavaScript, React, Nextjs, Python, Django, Data Scraping projects.  <br />
+      * ⚡  I'm secretly penguin lover but don't tell anyone. 
     </td>
     <td />
   </tr>
@@ -241,10 +241,11 @@ servers, optimisation and also promising technologies like Blockchain and AWS.
     </td>
   </tr>
 </table>
-<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yusufdupsc1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/yusufdupsc1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdupsc1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-stats.vercel.app/api?username=yusufdupsc1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yusufdupsc1's GitHub stats" />
+</a>
 
-
+<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 ![Profile views
 counter](https://komarev.com/ghpvc/?username=yusufdupsc1&&style=flat-square)
