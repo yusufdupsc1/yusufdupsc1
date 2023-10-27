@@ -1,7 +1,10 @@
-##
-<h1 style="color: rgb(36, 92, 114); font-family: Fira Code">
-  Hi there, My name is Yusuf Ali and I am a fullstack developer.
-</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yusuf Ali.
+==================================================================================================================================
+
+I 'm a fullstack developer
+--------------------------
+
+I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend technology. I specialize in building robust backend that do all the heavy lifting for your app or website. I love designing UX/UI that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and AWS.
 <br />
 
 <a href="https://twitter.com/EsrafilSaikot" target="_blank">
@@ -65,9 +68,9 @@ servers, optimisation and also promising technologies like Blockchain and AWS.
   <tr>
     <td align="top" width="100%">
       * 🌍  I'm based in Dhaka, Bangladesh. <br />
-      * 🖥️  See my portfolio at [nowyouseeme](http://nowyouseeme.dev)  <br />
-      * ✉️  You can contact me at [yusufdupsc1@gmail.com](mailto:yusufdupsc1@gmail.com)  <br />
-      * 🚀  I'm currently working on [Nextjs-projects](http://nextjs2023.pro)  <br />
+      * 🖥️  See my portfolio at <a href="https://www.nowyouseeme.dev">nowyoursee.dev<a/>  <br />
+      * ✉️  You can contact me at <a href="yusufdupsc1@gmail.com">mail to<a/>  <br />
+      * 🚀  I'm currently working on <a href="https://www.next-js.pro">nextjs projects<a/>  <br />
       * 🧠  I'm learning Blockchain & Smart contacts development.  <br />
       * 🤝  I'm open to collaborating on JavaScript, React, Nextjs, Python, Django, Data Scraping projects.  <br />
       * ⚡  I'm secretly penguin lover but don't tell anyone. 
