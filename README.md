@@ -242,10 +242,8 @@ servers, optimisation and also promising technologies like Blockchain and AWS.
   </tr>
 </table>
 
-<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-stats.vercel.app/api?username=yusufdupsc1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yusufdupsc1's GitHub stats" />
-</a>
+<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=000&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a> <br />
 
-<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
 ![Profile views
 counter](https://komarev.com/ghpvc/?username=yusufdupsc1&&style=flat-square)
