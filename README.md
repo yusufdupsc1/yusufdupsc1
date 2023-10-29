@@ -236,7 +236,7 @@ I also frequently blog about the world behind the screen which involves system d
   </tr>
 </table>
 
-<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=#ffff99&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="http://www.github.com/yusufdupsc1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdupsc1&stroke=ffffff&background=ffff99&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a> <br />
 
 ![Profile views
