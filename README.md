@@ -1,7 +1,7 @@
 Hi there! My name is Yusuf Ali.
 ==================================================================================================================================
 
-I 'm a fullstack developer
+I 'm a Fullstack Developer
 --------------------------
 
 Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend technology. <br />
