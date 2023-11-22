@@ -59,9 +59,9 @@ I also frequently blog about the world behind the screen which involves system d
   <tr>
     <td align="top" width="100%">
       * 🌍  I'm based in Dhaka, Bangladesh. <br />
-      * 🖥️  See my portfolio at <a href="https://ali-peach.vercel.app/" target="_blank">ali.dev<a/>  <br />
+      * 🖥️  See my portfolio at <a href="ali-3d-portfolio.vercel.app" target="_blank">ali.dev<a/>  <br />
       * ✉️  You can contact me at: <a href="mailto:yusufdupsc1@gmail.com" target="_blank">Send email</a> <br />        
-      * 🚀  I'm currently working on <a href="https://ali-nextjs-fullstack.vercel.app/" target="_blank">nextjs projects<a/>  <br />
+      * 🚀  I'm currently working on <a href="https://ali-fullstact-nextjs-yusufdupsc1.vercel.app/" target="_blank">nextjs projects<a/>  <br />
       * 🧠  I'm learning Blockchain & Smart contacts development.  <br />
       * 🤝  I'm open to collaborating on JavaScript, React, Nextjs, Python, Django, Data Scraping projects.  <br />
       * ⚡  I'm secretly penguin lover but don't tell anyone. 
