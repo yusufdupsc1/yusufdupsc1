@@ -215,7 +215,6 @@ I also frequently blog about the world behind the screen which involves system d
 </div>
 
 
-
 ## Github Stats:
 <table>
   <tr>
