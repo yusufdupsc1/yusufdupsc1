@@ -1,43 +1,47 @@
-<h1 align="center">🚀 Yusuf Ali | Full-Stack Developer</h1>
-<h3 align="center">Crafting Digital Excellence Through Code & Innovation</h3>
+name: Generate Snake Animation
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Blockchain+Enthusiast;UI%2FUX+Architect;Open-Source+Contributor;Continuous+Learner" alt="Typing SVG" />
-  </a>
-</p>
-
-<div align="center">
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
   
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=yusufdupsc1&color=00D4FF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/yusufdupsc1?color=00D4FF&label=Followers&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/yusufdupsc1?affiliations=OWNER%2CCOLLABORATOR&color=00D4FF&style=for-the-badge)
+  # Allows manual trigger
+  workflow_dispatch:
+  
+  # Run on every push to main
+  push:
+    branches:
+      - main
 
-</div>
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
----
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-## 💫 About Me
+      # Generate the snake files in ./dist/
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: yusufdupsc1
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-```javascript
-const yusuf = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "Solidity"],
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js", "Vue"],
-      styling: ["Tailwind CSS", "Styled Components", "Framer Motion"],
-      stateManagement: ["Redux", "Zustand", "React Query"]
-    },
-    backend: {
-      runtime: ["Node.js", "Python"],
-      frameworks: ["Express", "Django", "FastAPI"],
-      databases: ["PostgreSQL", "MongoDB", "Redis"]
-    },
-    devOps: ["Docker", "AWS", "Vercel", "GitHub Actions"],
-    blockchain: ["Ethereum", "Smart Contracts", "Web3.js", "Hardhat"]
-  },
-  architecture: ["Microservices", "Serverless", "Progressive Web Apps"],
-  currentFocus: "Building scalable full-stack applications & exploring Web3",
-  funFact: "I believe the best code is written with coffee ☕ and penguins 🐧"
-};
+      # Push the generated files to the output branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
