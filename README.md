@@ -56,7 +56,7 @@
 ```typescript
 class FullStackDeveloper {
     name: string = "Yusuf Ali";
-    location: string = "🇧🇩 Dhaka, Bangladesh";
+    location: string = "🌎 Dhaka, Bangladesh";
     role: string = "Full-Stack Developer";
     
     skills = {
@@ -84,7 +84,7 @@ class FullStackDeveloper {
     ];
     
     portfolio = "https://ali-3d-portfolio.vercel.app";
-    funFact = "I'm secretly a penguin lover 🐧 (but don't tell anyone!)";
+    funFact = "I'm secretly a penguine lover. (Don't tell anyone!)";
     
     getMotivation(): string {
         return "Building scalable systems that make a difference! 🚀";
@@ -98,10 +98,10 @@ console.log(yusuf.getMotivation());
 ### 🚀 Current Projects
 
 - 🔭 **Working On:** [Next.js Full-Stack Applications](https://ali-fullstact-nextjs-yusufdupsc1.vercel.app)
-- 🌱 **Learning:** Blockchain Development, Smart Contracts, Web3.js
+- 🌱 **Learning:** DevOps Engineering, AWS Cloud, Three.js
 - 👯 **Open to Collaborate:** JavaScript, React, Next.js, Python, Django, Web Scraping
 - 💬 **Ask Me About:** System Design, Backend Architecture, Database Optimization, Cloud
-- 📝 **I Write About:** System Design, Security, Databases, AWS, Blockchain
+- 📝 **I Write About:** System Architecture, Cyber Security, Databases, AWS, UI/UX Design  
 
 <br clear="right"/>
 
