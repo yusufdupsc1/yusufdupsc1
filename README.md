@@ -51,7 +51,7 @@
 
 <img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 👨‍💻 About Me
+### ⇴ About Me
 
 ```typescript
 class FullStackDeveloper {
