@@ -8,8 +8,8 @@
 █     ██║   ╚██████╔╝███████║╚██████╔╝██║        ██║  ██║███████╗██║         █
 █     ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝        ╚═╝  ╚═╝╚══════╝╚═╝         █
 █                                                                              █
-█              Full-Stack Developer | Blockchain Enthusiast                   █
-█                    Crafting Digital Excellence Since 2020                   █
+█              Full-Stack Developer | DevOps Engineer                   █
+█                    Crafting Digital Excellence Since 2012                   █
 █                                                                              █
 ████████████████████████████████████████████████████████████████████████████████
 -->
@@ -109,10 +109,10 @@ const yusufAli = {
     currentMission: "Building scalable systems that empower users",
 
     learning: [
-        "Blockchain & Smart Contracts (Solidity)",
+        "Cybersecuriy & Linux server",
         "AWS Solutions Architecture",
         "Advanced System Design Patterns",
-        "Web3 & DeFi Protocols"
+        "Networking & DeFi Protocols"
     ],
 
     interests: ["Open Source", "Tech Blogging", "Mentoring"],
@@ -136,19 +136,19 @@ console.log(yusufAli.currentMission);
 ```yaml
 🔭 Working On:
   - Next.js Full-Stack Applications
-  - Blockchain DApp Development
+  - AI integration in web apps 
   - AWS Cloud Infrastructure
 
 🌱 Currently Learning:
-  - Solidity & Smart Contracts
+  - Linux Kernel Development 
   - AWS Solutions Architecture
   - Advanced TypeScript Patterns
-  - Web3.js & Ethers.js
+  - Three.js
 
 🤝 Open to Collaborate:
   - React/Next.js Projects
   - Python/Django Systems
-  - Blockchain Applications
+  - Linux server setup & automation
   - Open Source Contributions
 
 💬 Ask Me About:
@@ -438,14 +438,14 @@ interface Goals2025 {
 
 const myGoals: Goals2025 = {
     professional: [
-        "🎯 Master Blockchain & Smart Contract Development",
+        "🎯 Master Cybersecurity & Secure Networking",
         "☁️ Achieve AWS Solutions Architect Certification",
         "🚀 Launch 3+ Production-Ready SaaS Products",
         "💼 Build Sustainable Passive Income Streams"
     ],
 
     technical: [
-        "⛓️ Build 5+ Web3 DApps with Real-World Use Cases",
+        "⛓️ Build 5+ full Stack web apps with Real-World Use Cases",
         "⚡ Optimize Backend Systems for 10x Performance",
         "🏗️ Design & Implement Microservices Architecture",
         "🔐 Master Advanced Security & Encryption Patterns"
@@ -460,7 +460,7 @@ const myGoals: Goals2025 = {
 
     personal: [
         "📚 Read 24+ Technical & Business Books",
-        "🌍 Attend 2+ International Tech Conferences",
+        "🌍 Attend 2+ National Tech Conferences",
         "🏆 Win at Least 1 Major Hackathon",
         "💪 Maintain Work-Life Balance & Stay Healthy"
     ]
