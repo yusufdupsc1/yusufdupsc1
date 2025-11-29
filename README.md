@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Yusuf%20Ali&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cloud%20Architect%20•%20Blockchain%20Explorer&descSize=20&descAlignY=53&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Yusuf%20Ali&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cloud%20Architect%20•%20DevOps%20Engineer&descSize=20&descAlignY=53&animation=twinkling" width="100%"/>
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
