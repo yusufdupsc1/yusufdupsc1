@@ -8,7 +8,7 @@
 █     ██║   ╚██████╔╝███████║╚██████╔╝██║        ██║  ██║███████╗██║         █
 █     ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝        ╚═╝  ╚═╝╚══════╝╚═╝         █
 █                                                                              █
-█              Full-Stack Developer | DevOps Engineer                   █
+█              Full-Stack Developer | DevOps Engineer                         █
 █                    Crafting Digital Excellence Since 2012                   █
 █                                                                              █
 ████████████████████████████████████████████████████████████████████████████████
@@ -19,22 +19,18 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Yusuf%20Ali&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cloud%20Architect%20•%20DevOps%20Engineer&descSize=20&descAlignY=53&animation=twinkling" width="100%"/>
 
-
 <!-- Dynamic Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Distributed+System;Architecting+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG"
-  />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Distributed+System;Architecting+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" width="100%" style="max-width:800px"/>
 
 <!-- Status Badges -->
-<p align="center",>
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-success?style=flat-square&logo=statuspage&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-0891b2?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-blueviolet?style=flat-square&logo=react&logoColor=white" alt="Focus"/>
   <img src="https://komarev.com/ghpvc/?username=yusufdupsc1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
-<!-- Social Links -->
+<!-- Social Links Row 1 -->
 <p align="center">
   <a href="https://ali-3d-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
@@ -53,6 +49,7 @@
   </a>
 </p>
 
+<!-- Social Links Row 2 -->
 <p align="center">
   <a href="https://github.com/yusufdupsc1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -72,19 +69,18 @@
 
 <br/>
 
-<!-- Elegant Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- About Me Section — stacked layout for full responsiveness -->
+<div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
+
+</div>
 
 ```javascript
 const yusufAli = {
@@ -126,11 +122,8 @@ console.log(yusufAli.currentMission);
 // Output: Building scalable systems that empower users
 ```
 
-</td>
-<td width="50%" valign="top">
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="60%" alt="Coding Animation"/>
 </div>
 
 ### 🎯 Current Focus
@@ -160,13 +153,8 @@ console.log(yusufAli.currentMission);
   - Cloud Infrastructure
 ```
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- Tech Stack Section -->
@@ -179,165 +167,24 @@ console.log(yusufAli.currentMission);
 
 ### 🎨 Frontend Development
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,tailwind,bootstrap" alt="Frontend Skills" />
 
 ### ⚙️ Backend Development
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,laravel,graphql,fastapi" alt="Backend Skills" />
 
 ### 🗄️ Databases & Cloud
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br>Vercel
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,aws,docker,kubernetes,vercel" alt="Database & Cloud Skills" />
 
 ### 🛠️ Tools & Technologies
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,wordpress,figma,photoshop" alt="Tools" />
 
 </div>
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- GitHub Statistics -->
@@ -347,29 +194,32 @@ console.log(yusufAli.currentMission);
 </h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yusufdupsc1&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Yusuf Ali GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=yusufdupsc1&theme=dark&hide_border=true&background=0D1117&stroke=00b3ff&ring=00b4ff&fire=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Yusuf Ali Streak Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yusufdupsc1&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Yusuf Ali GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yusufdupsc1&theme=dark&hide_border=true&background=0D1117&stroke=00b3ff&ring=00b4ff&fire=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Yusuf Ali Streak Stats"/>
+
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdupsc1&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=html,css,cmake&exclude_repo=github-readme-stats" alt="Most Used Languages"/>
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=yusufdupsc1&bg_color=0d1117&color=00b3ff&line=00b4ff&point=FFFFFF&hide_border=true&area=true&area_color=00b3ff" alt="Activity Graph"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdupsc1&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=html,css,cmake&exclude_repo=github-readme-stats" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yusufdupsc1&bg_color=0d1117&color=00b3ff&line=00b4ff&point=FFFFFF&hide_border=true&area=true&area_color=00b3ff" alt="Activity Graph"/>
+
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusufdupsc1&theme=github_dark&hide_border=true" alt="Profile Details"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusufdupsc1&theme=github_dark&hide_border=true" alt="Profile Details"/>
 </div>
 
 <br/>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yusufdupsc1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=8&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yusufdupsc1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=4&row=2" alt="GitHub Trophies" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- Contribution Graph -->
@@ -379,12 +229,11 @@ console.log(yusufAli.currentMission);
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufdupsc1&bg_color=0d1117&color=00b3ff&line=00b4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufdupsc1&bg_color=0d1117&color=00b3ff&line=00b4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- Dev Quote -->
@@ -394,12 +243,11 @@ console.log(yusufAli.currentMission);
 </h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- Blog Posts Section -->
@@ -419,7 +267,6 @@ console.log(yusufAli.currentMission);
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- 2025 Goals -->
@@ -475,10 +322,9 @@ console.log("Let's make 2025 extraordinary! 🚀");
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- Skills Matrix -->
+<!-- Core Competencies -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>
   Core Competencies
@@ -486,74 +332,15 @@ console.log("Let's make 2025 extraordinary! 🚀");
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/code.png" width="80px" alt="Clean Code"/>
-      <br><br>
-      <strong>Clean Architecture</strong>
-      <br><br>
-      <sub>Writing maintainable, scalable,<br/>and well-documented code<br/>following industry standards</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/web-design.png" width="80px" alt="UI/UX"/>
-      <br><br>
-      <strong>UI/UX Excellence</strong>
-      <br><br>
-      <sub>Crafting pixel-perfect,<br/>responsive, and accessible<br/>user interfaces</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/cloud.png" width="80px" alt="Cloud"/>
-      <br><br>
-      <strong>Cloud Architecture</strong>
-      <br><br>
-      <sub>Designing and deploying<br/>scalable, fault-tolerant<br/>cloud solutions</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/api.png" width="80px" alt="API"/>
-      <br><br>
-      <strong>API Development</strong>
-      <br><br>
-      <sub>Building robust RESTful<br/>and GraphQL APIs with<br/>comprehensive documentation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/database.png" width="80px" alt="Database"/>
-      <br><br>
-      <strong>Database Design</strong>
-      <br><br>
-      <sub>Optimizing queries,<br/>designing schemas, and<br/>ensuring data integrity</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/blockchain-technology.png" width="80px" alt="Blockchain"/>
-      <br><br>
-      <strong>Blockchain Dev</strong>
-      <br><br>
-      <sub>Smart contracts, DApps,<br/>and Web3 integration<br/>with security focus</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/test-tube.png" width="80px" alt="Testing"/>
-      <br><br>
-      <strong>Test-Driven Dev</strong>
-      <br><br>
-      <sub>Implementing comprehensive<br/>unit, integration, and<br/>E2E testing strategies</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/learning.png" width="80px" alt="Learning"/>
-      <br><br>
-      <strong>Rapid Learning</strong>
-      <br><br>
-      <sub>Quickly adapting to new<br/>technologies, frameworks,<br/>and methodologies</sub>
-    </td>
-  </tr>
-</table>
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="https://img.icons8.com/fluency/96/code.png" width="64px" alt="Clean Code"/><br><br>**Clean Architecture**<br><sub>Writing maintainable, scalable,<br/>and well-documented code<br/>following industry standards</sub> | <img src="https://img.icons8.com/fluency/96/web-design.png" width="64px" alt="UI/UX"/><br><br>**UI/UX Excellence**<br><sub>Crafting pixel-perfect,<br/>responsive, and accessible<br/>user interfaces</sub> | <img src="https://img.icons8.com/fluency/96/cloud.png" width="64px" alt="Cloud"/><br><br>**Cloud Architecture**<br><sub>Designing and deploying<br/>scalable, fault-tolerant<br/>cloud solutions</sub> | <img src="https://img.icons8.com/fluency/96/api.png" width="64px" alt="API"/><br><br>**API Development**<br><sub>Building robust RESTful<br/>and GraphQL APIs with<br/>comprehensive documentation</sub> |
+| <img src="https://img.icons8.com/fluency/96/database.png" width="64px" alt="Database"/><br><br>**Database Design**<br><sub>Optimizing queries,<br/>designing schemas, and<br/>ensuring data integrity</sub> | <img src="https://img.icons8.com/fluency/96/blockchain-technology.png" width="64px" alt="Blockchain"/><br><br>**Blockchain Dev**<br><sub>Smart contracts, DApps,<br/>and Web3 integration<br/>with security focus</sub> | <img src="https://img.icons8.com/fluency/96/test-tube.png" width="64px" alt="Testing"/><br><br>**Test-Driven Dev**<br><sub>Implementing comprehensive<br/>unit, integration, and<br/>E2E testing strategies</sub> | <img src="https://img.icons8.com/fluency/96/learning.png" width="64px" alt="Learning"/><br><br>**Rapid Learning**<br><sub>Quickly adapting to new<br/>technologies, frameworks,<br/>and methodologies</sub> |
 
 </div>
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- Connect Section -->
@@ -566,26 +353,9 @@ console.log("Let's make 2025 extraordinary! 🚀");
 
 ### 🤝 I'm Open To
 
-<table>
-  <tr>
-    <td align="center">
-      💼 <strong>Full-Time Opportunities</strong><br/>
-      <sub>Remote or Hybrid positions</sub>
-    </td>
-    <td align="center">
-      🚀 <strong>Freelance Projects</strong><br/>
-      <sub>Web apps, APIs, & consulting</sub>
-    </td>
-    <td align="center">
-      🤝 <strong>Collaborations</strong><br/>
-      <sub>Open source & side projects</sub>
-    </td>
-    <td align="center">
-      💡 <strong>Tech Discussions</strong><br/>
-      <sub>Architecture & best practices</sub>
-    </td>
-  </tr>
-</table>
+| 💼 **Full-Time Opportunities** | 🚀 **Freelance Projects** | 🤝 **Collaborations** | 💡 **Tech Discussions** |
+|:---:|:---:|:---:|:---:|
+| <sub>Remote or Hybrid positions</sub> | <sub>Web apps, APIs, & consulting</sub> | <sub>Open source & side projects</sub> | <sub>Architecture & best practices</sub> |
 
 <br/>
 
@@ -620,54 +390,30 @@ console.log("Let's make 2025 extraordinary! 🚀");
 
 <br/>
 
-<!-- Elegant Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- Footer Section -->
+<!-- Footer Fun Facts -->
 <div align="center">
 
 ### ⚡ Fun Facts
 
-<table align="center">
-  <tr>
-    <td align="center">
-      ☕ <strong>Coffee Consumed</strong><br/>
-      <sub>∞ cups and counting</sub>
-    </td>
-    <td align="center">
-      💻 <strong>Lines of Code</strong><br/>
-      <sub>More than I can count</sub>
-    </td>
-    <td align="center">
-      🐛 <strong>Bugs Fixed</strong><br/>
-      <sub>Yes, but created more</sub>
-    </td>
-    <td align="center">
-      🌙 <strong>Coding Time</strong><br/>
-      <sub>Mostly 2am - 6am</sub>
-    </td>
-  </tr>
-</table>
+| ☕ **Coffee Consumed** | 💻 **Lines of Code** | 🐛 **Bugs Fixed** | 🌙 **Coding Time** |
+|:---:|:---:|:---:|:---:|
+| <sub>∞ cups and counting</sub> | <sub>More than I can count</sub> | <sub>Yes, but created more</sub> | <sub>Mostly 2am - 6am</sub> |
 
 <br/>
 
 ### 🎵 Currently Vibing To
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l5ev4t7wjxbx2jv3z36d7igtye&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00b3ff" alt="Spotify Now Playing"/>
-</p>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l5ev4t7wjxbx2jv3z36d7igtye&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00b3ff" alt="Spotify Now Playing"/>
 
 <br/>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+great!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer Typing"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+great!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer Typing" width="100%" style="max-width:600px"/>
 
-<p align="center">
-  <sub>Made with ❤️ by Yusuf Ali</sub>
-</p>
+<sub>Made with ❤️ by Yusuf Ali</sub>
 
 </div>
 
