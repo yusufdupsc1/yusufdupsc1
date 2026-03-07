@@ -19,13 +19,10 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Yusuf%20Ali&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cloud%20Architect%20•%20DevOps%20Engineer&descSize=20&descAlignY=53&animation=twinkling" width="100%"/>
 
+
 <!-- Dynamic Typing Effect -->
-<div align="center" style="max-width:100%; overflow:hidden;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Scalable+Full-Stack+Applications+🚀;Crafting+Pixel-Perfect+User+Experiences+🎨;Exploring+Web3+%26+Webhook+Innovation+⚓️;Architecting+Cloud-Native+Solutions+☁️;Turning+Coffee+into+Code+☕️➡️💻"
-    alt="Typing SVG"
-    style="max-width:100%; height:auto;"
-  />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Full-Stack+Applications+%F0%9F%9A%80;Crafting+Pixel-Perfect+User+Experiences+%F0%9F%8E%A8;Exploring+Web3+%26+Blockchain+Innovation+%E2%9B%93%EF%B8%8F;Architecting+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <!-- Status Badges -->
