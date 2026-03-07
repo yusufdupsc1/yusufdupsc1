@@ -27,7 +27,7 @@
 </div>
 
 <!-- Status Badges -->
-<p align="center">
+<p align="center", position="relative",>
   <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-success?style=flat-square&logo=statuspage&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/Location-Dhaka%2C_Bangladesh-0891b2?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-blueviolet?style=flat-square&logo=react&logoColor=white" alt="Focus"/>
