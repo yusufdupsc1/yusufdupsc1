@@ -38,7 +38,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Yusuf%20Ali&fontSize=70&fontAlignY=38&desc=Stripe%20Integration%20%26%20Webhook%20Reliability%20Engineer&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=Payments+infrastructure+that+doesn't+go+down+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=Payments+infrastructure+that+stays+up+in+production" alt="Typing SVG" />
 
 <br/>
 
